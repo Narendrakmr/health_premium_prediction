@@ -1,0 +1,12 @@
+pandas 
+numpy
+seaborn
+Scikit-learn
+sklearn
+matplotlib
+plotly
+six
+flask
+dill
+git
+-e .
