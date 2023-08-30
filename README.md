@@ -1,1 +1,3 @@
 # health_premium_prediction
+To predict the premium price of health Insurance based on various factors.
+This paper represents a machine learning-based health insurance prediction system. Recently, many attempts have been made to solve this problem, as after Covid pandemic, health insurance has become one of the most prominent areas of research. We have used the medical cost personal dataset from kaggle, having 10 lakhs entries. Features in the dataset that are used for the prediction of insurance cost include: Age, Gender, BMI, Smoking Habit, number of children etc. We used linear regression and also determined the relation between price and these features. We trained the system using a 70-30 split and achieved an accuracy of 87%.
